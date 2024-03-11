@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using static Unity.Burst.Intrinsics.X86;
 
-public class Ejercicio1 : MonoBehaviour
+public class Pilas : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
